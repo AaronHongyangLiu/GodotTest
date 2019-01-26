@@ -19,4 +19,6 @@ percent_visible = 1.0
 lines_skipped = 0
 max_lines_visible = -1
 
+[node name="Node2D" type="Node2D" parent="." index="0"]
+
 
